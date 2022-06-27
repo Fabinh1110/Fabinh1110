@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Sobre mim
+- Olá, eu sou o Fabinho
+- Estou interresado em cursos 
+- Atualmente estou aprendendo SCRATH e JAVASCRIPT
+- Instagram @fabinho_baiatala 
+ 
 <!--
 **Fabinh1110/Fabinh1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
