@@ -5,7 +5,7 @@
 - Instagram @fabinho_baiatala 
  
 <!--
-**Fabinh1110/Fabinh1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fabinho1110/Fabinho1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
